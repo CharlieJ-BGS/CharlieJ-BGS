@@ -1,4 +1,6 @@
-## Hi there 👋
+# Charlie J
+
+Hi there. 👋
 
 <!--
 **CharlieJ-BGS/CharlieJ-BGS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
